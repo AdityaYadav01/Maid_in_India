@@ -17,10 +17,10 @@
 
 With our website hiring a maid will be made convenient for all. One does not have to worry about anything, and we’ll mention each and every detail you need to hear. For example :-
 
-<	We’ll make sure that a maid is proficient with services you need.
-<	We’ll check if she fits in your budget or not.
-<	We’ll mention the experience.
-<	We’ll check of all the hygienic practices too.
-<	Age
-<	Background and identity verification
+>	We’ll make sure that a maid is proficient with services you need.
+>	We’ll check if she fits in your budget or not.
+>	We’ll mention the experience.
+>	We’ll check of all the hygienic practices too.
+>	Age
+>	Background and identity verification
 

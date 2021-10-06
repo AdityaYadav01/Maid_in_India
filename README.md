@@ -4,6 +4,7 @@
 
 - **This is indeed an innovative idea it contains all the aspects a person will be looking forward and how it will be different from the apps or sites which are already available on the internet. Following are the innovations we planned to do :-**
 
+
     * We will take full care for the security of our customers by having all the details of their Aadhar card and their address so that we can track their location if something unusual happens and for the people who will be working for us will get customers who are fully trustful.
 
     * Not only maids but we will provide another social help also like gardener or a babysitter etc. For this our work frame will be with proper pictures and qualifications of the people.

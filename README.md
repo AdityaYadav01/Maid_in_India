@@ -26,4 +26,4 @@ With our website hiring a maid will be made convenient for all. One does not hav
 
 
 
-                                 ![image](https://user-images.githubusercontent.com/77524835/136186813-4cd3ae43-97c8-40a9-8cc7-247f65ad33ec.png)
+                                ![image](https://user-images.githubusercontent.com/77524835/136187039-b8537ff9-3f52-441f-9b9c-28eb5e56e4a4.png)

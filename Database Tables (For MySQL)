@@ -1,1 +1,15 @@
+create table services(service_id varchar(10), name varchar(40), aadhar varchar(20), city varchar(30), services varchar(10), price varchar(10), dailyhr varchar(10));
 
+
+create table details(user_id varchar(10), username varchar(25), aadhar varchar(25), services varchar(10), price varchar(10), time varchar(10), city varchar(10));
+
+
+create table bookService(service_id varchar(10), user_id varchar(10), bname varchar(40), sname varchar(40), services varchar(20), price varchar(10), dateOfBooking varchar(30));
+
+
+
+create table withdrawService(service_id varchar(10), user_id varchar(10), bname varchar(40), sname varchar(40), services varchar(20), price varchar(10), dateOfBooking varchar(30), dateOfWithdraw varchar(30));
+
+
+
+create table account(username varchar(20), name varchar(25), password varchar(25), sec_q varchar(25), sec_ans varchar(25));

@@ -24,6 +24,9 @@ With our website hiring a maid will be made convenient for all. One does not hav
 *	Age
 *	Background and identity verification
 
+![Solution Chart - 1](https://user-images.githubusercontent.com/77524835/142022601-250e4462-6ece-491b-9b7f-08747780c349.jpeg)
+![Solution Chart - 2](https://user-images.githubusercontent.com/77524835/142022639-aec87ce4-5a99-4b77-a257-2bfdb0b6ab30.jpeg)
+
 
 
 

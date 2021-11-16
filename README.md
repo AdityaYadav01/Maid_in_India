@@ -25,7 +25,6 @@ With our website hiring a maid will be made convenient for all. One does not hav
 *	Background and identity verification
 
 
-![image](https://user-images.githubusercontent.com/77524835/136187154-536582f0-a698-4a14-abe3-103af753d0fa.png)
 
 
 

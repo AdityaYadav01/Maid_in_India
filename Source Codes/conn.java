@@ -2,6 +2,7 @@ package dtiproject;
 
 import java.sql.*;  
 
+
 public class conn{
     Connection c;
     Statement s;

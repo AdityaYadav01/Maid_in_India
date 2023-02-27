@@ -1,11 +1,11 @@
 
 # Maid in India
 
-> ## INTRODUCTION
+## INTRODUCTION
 
 "Maid in India" is a convenient and user-friendly web-based application designed to cater to the needs of individuals seeking a domestic worker or housemaid to assist them with their daily household chores. The platform offers an easy-to-use interface that connects users with a network of experienced and reliable domestic workers across India. With the help of this application, users can quickly find and hire a maid who can efficiently manage their household tasks, such as cleaning, cooking, and laundry. By using Maid in India, users can save time, effort, and money by finding a trustworthy domestic worker with just a few clicks.
 
-> ## Project Decription
+## Project Decription
 
 The application is built using the Java programming language and uses SQL to manage its data. Additionally, the project uses several Java libraries such as AWT and Swing to create a user-friendly interface that allows users to search and hire domestic workers.
 
@@ -15,7 +15,7 @@ To ensure that the domestic workers on the platform are reliable and trustworthy
 
 Overall, the "Maid in India" project is an excellent solution for individuals who need assistance with their daily household chores. The application's user-friendly interface, reliable domestic workers, and rating system make it easy for users to find and hire a domestic worker quickly and efficiently.
 
-> ## How to Install and Run the Project
+## How to Install and Run the Project
 
 To install and run the "Maid in India" project from the GitHub repository, you can follow the steps below:
 

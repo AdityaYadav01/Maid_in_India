@@ -33,19 +33,6 @@ Clone the GitHub repository or download the source code folder.
 Note: The specific steps to install and run the project may vary depending on the project's configuration and setup. It is advisable to refer to the project's documentation or seek assistance from the project developers if you encounter any issues.
 
 
-***
-
-> **PROBLEMS SOLVED BY MAID IN INDIA** 
-
-With our website hiring a maid will be made convenient for all. One does not have to worry about anything, and we’ll mention each and every detail you need to hear. For example :-
-
-*	We’ll make sure that a maid is proficient with services you need.
-*	We’ll check if she fits in your budget or not.
-*	We’ll mention the experience.
-*	We’ll check of all the hygienic practices too.
-*	Age
-*	Background and identity verification
-
 ![Solution Chart - 1](https://user-images.githubusercontent.com/77524835/142022601-250e4462-6ece-491b-9b7f-08747780c349.jpeg)
 ![Solution Chart - 2](https://user-images.githubusercontent.com/77524835/142022639-aec87ce4-5a99-4b77-a257-2bfdb0b6ab30.jpeg)
 

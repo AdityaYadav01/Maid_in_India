@@ -1,7 +1,7 @@
 
 # Maid in India
 
-## INTRODUCTION
+> ## INTRODUCTION
 
 "Maid in India" is a convenient and user-friendly web-based application designed to cater to the needs of individuals seeking a domestic worker or housemaid to assist them with their daily household chores. The platform offers an easy-to-use interface that connects users with a network of experienced and reliable domestic workers across India. With the help of this application, users can quickly find and hire a maid who can efficiently manage their household tasks, such as cleaning, cooking, and laundry. By using Maid in India, users can save time, effort, and money by finding a trustworthy domestic worker with just a few clicks.
 
